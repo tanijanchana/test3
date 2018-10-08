@@ -48,9 +48,9 @@ $sport=["tennis","golf","football"];
     for($s=0;$s<=count($sport)-1;$s++){
         echo $sport[$s]."<br/>";
     }
-    foreach($status as $value){
+//    foreach($status as $value){
       //  echo $value->id."<br/>";
-    }
+   // }
     ?>
 
 </div>
